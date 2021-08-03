@@ -18,8 +18,8 @@ This project was implemented following **The Complete Guide to Full Stack Ethere
 
 ## Additional Resources
 
-[Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/)
-Recommended follow up: [Austin Griffith Scaffold ETH](https://github.com/austintgriffith/scaffold-eth)
+- [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.6/)
+- Recommended follow up: [Austin Griffith Scaffold ETH](https://github.com/austintgriffith/scaffold-eth)
 
 ## Friction Logs / Retrospective
 
